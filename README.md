@@ -4,3 +4,5 @@ A planner I made in my free time using Java swing. The planner includes a way of
 In order to scrape the weather information from the internet, I used an open source HTML parser called jsoup: https://jsoup.org/
 
 I also used an open source font chooser for the notes called JFontChooser: http://jfontchooser.sourceforge.net/
+
+![Alt text](planner.png)
